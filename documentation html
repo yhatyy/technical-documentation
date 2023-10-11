@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Technical Documentation Page</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+      <nav id="navbar">
+        <header><h1>JoJo Shi</h1></header>
+        <ul>
+            <li><a class="nav-link" href="#Introduction">Introduction</a></li>
+            <li><a class="nav-link" href="#Phantom_Blood">Phantom Blood</a></li>
+            <li><a class="nav-link" href="#Battle_Tendency">Battle Tendency</a></li>
+            <li><a class="nav-link" href="#Stardust_Crusaders">Stardust Crusaders</a></li>
+            <li><a class="nav-link" href="#Diamond_Is_Unbreakable">Diamond Is Unbreakable</a></li>
+            <li><a class="nav-link" href="#Golden_Wind">Golden Wind</a></li>
+            <li><a class="nav-link" href="#Stone_Ocean">Stone Ocean</a></li>
+            <li><a class="nav-link" href="#Steel_Ball_Run">Steel Ball Run</a></li>
+            <li><a class="nav-link" href="#JoJoLion">JoJoLion</a></li>
+            <li><a class="nav-link" href="#The_JoJoLANDS">The JoJoLANDS</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main id="main-doc">
+        <div>
+            <section class="main-section" id="Introduction">
+                <header id="header1">
+                    <h2 id="Introductio">Introduction</h2>
+                </header>
+                <p id="yap">This is a website giving a brief introduction on every part of JoJo's Bizarre Adventure. There are 9 parts that will be written about. In each part, I will mention the Plot, MC, Side Characters, Noticeable Antagonists (Except for Part 9) and my rating of the part.</p>
+            </section>
+            <section class="main-section" id="Phantom_Blood">
+                <header id="header1">
+                    <h2 id="Phantom_Bloo">Phantom Blood</h2>
+                </header>
+                <p id="yap">This is the first part of JoJo's Bizarre Adventure. It begins with Jonathan Joestar slowly letting Dio Brando into his Joestar Family. However, Dio is secretly plotting to overthrow the Joestars as a way of getting back at the rich society that treated him like shit. However, after years of torture, Jonathan was able to gather enough evidence to finish Dio. Although, this was not a success, as Dio had uncovered the secret of the stone mask and used it to become a vampire strong enough to kill without any effort and burn down the Joestar Mansion.</p>
+                <h3 id="mini-header">MC: Jonathan Joestar</h3>
+                <p id="yap">Jonathan Joestar started off as a spoilt rich child with a heart of gold that believed in doing what's right. He stuck with his trusty companion Danny, until Dio burned him alive. After a few years had passed, Dio had manipulated Jonathan into believing they were the best of friends and that they would be an unstoppable duo with Jonathan's brawn and Dio's intelligence.</p>
+                <p id="yap">After Dio had burned down the Joestar residence, Jonathan reunites with Erina, his childhood love and he also meets Zeppeli, the master of Hamon.</p>
+                <h3 id="mini-header">Antagonist: Dio Brando</h3>
+                <p id="yap">Dio came from the slums of England, living with an abusive alcoholic father named Dario Brando.</p>
+                <h3 id="mini-header">Side Character: Speedwagon</h3>
+                <p class="yap">Yap Yap Yap</p>
+                <h3 id="mini-header">Side Character: Will Zeppeli</h3>
+                <p class="yap">Yap Yap Yap</p>
+                <h3 id="mini-header">Rating: 7/10</h3>
+            </section>
+            <section class="main-section" id="Battle_Tendency">
+                <header id="header1">
+                    <h2 id="Battle_Tend]ency">Battle Tendency</h2>
+                </header>
+                <p id="yap">Yap Yap Yap...</p>
+                <h3 id="mini-header">MC: Joseph Joestar</h3>
+                <p id="yap">Yap Yap Yap</p>
+                <h3 id="mini-header">Antagonists: Pillar Men</h3>
+                <p id="yap">Yap Yap Yap</p>
+                <h3 id="mini-header">Rating: 8/10</h3>
+            </section>
+            <section class="main-section" id="Stardust_Crusaders">
+                <header id="header1">
+                    <h2 id="StardustCrusaders">Stardust Crusaders</h2>
+                </header>
+                <p id="yap">Yap Yap Yap...</p>
+                <h3 id="mini-header">MC: Jotaro Kujo</h3>
+                <p id="yap">Yap Yap Yap</p>
+                <h3 id="mini-header">Antagonist: DIO</h3>
+                <p id="yap">Yap Yap Yap</p>
+                <h3 id="mini-header">Rating: 8.5/10</h3>
+                <ul>
+                    <li>1</li>
+                    <li>2</li>
+                    <li>3</li>
+                    <li>4</li>
+                    <li>5</l1>
+                </ul>
+                <code>2</code>
+                <code>2</code>
+                <code>3</code>
+                <code>4</code>
+                <code>4</code>
+            </section>
+            <section class="main-section" id="Diamond_Is_Unbreakable">
+                <header id="header1">
+                    <h2 id="Diamond_Is_Ubreakable">Diamond Is Unbreakable</h2>
+                </header>
+                <p id="yap">Yap Yap Yap...</p>
+                <h3 id="mini-header">MC: Josuke Higashikata</h3>
+                <p id="yap">Yap Yap Yap</p>
+                <h3 id="mini-header">Antagonist: Yoshikage Kira</h3>
+                <p id="yap">Yap Yap Yap</p>
+                <h3 id="mini-header">Rating: 9.2/10</h3>
+            </section>
+            <section class="main-section" id="Golden_Wind">
+                <header id="header1">
+                    <h2 id="Golden_Win">Golden Wind</h2>
+                </header>
+                <p id="yap">Yap Yap Yap...</p>
+                <h3 id="mini-header">MC: Giorno Giovanna</h3>
+                <p id="yap">Yap Yap Yap</p>
+                <h3 id="mini-header">Antagonists: La Squadra</h3>
+                <p id="yap">Yap Yap Yap</p>
+                <h3 id="mini-header">Rating: 8.7/10</h3>
+            </section>
+            <section class="main-section" id="Stone_Ocean">
+                <header id="header1">
+                    <h2 id="Stone_Ocen">Stone Ocean</h2>
+                </header>
+                <p id="yap">Yap Yap Yap...</p>
+                <h3 id="mini-header">MC: Jolyne Kujo</h3>
+                <p id="yap">Yap Yap Yap</p>
+                <h3 id="mini-header">Antagonist: Enrico Pucci</h3>
+                <p id="yap">Yap Yap Yap</p>
+                <h3 id="mini-header">Rating: 10/10</h3>
+            </section>
+            <section class="main-section" id="Steel_Ball_Run">
+                <header id="header1">
+                    <h2 id="Steel_Bll_Run">Steel Ball Run</h2>
+                </header>
+                <p id="yap">Yap Yap Yap...</p>
+                <h3 id="mini-header">MC: Johnny Joestar</h3>
+                <p id="yap">Yap Yap Yap</p>
+                <h3 id="mini-header">Antagonist: Funny Valentine</h3>
+                <p id="yap">Yap Yap Yap</p>
+                <h3 id="mini-header">Rating: 10/10</h3>
+            </section>
+            <section class="main-section" id="JoJoLion">
+                <header id="header1">
+                    <h2 id="JoJoion">JoJoLion</h2>
+                </header>
+                <p id="yap">Yap Yap Yap...</p>
+                <h3 id="mini-header">MC: Josuke Higashikata</h3>
+                <p id="yap">Yap Yap Yap</p>
+                <h3 id="mini-header">Antagonists: Locacaca Organisation</h3>
+                <p id="yap">Yap Yap Yap</p>
+                <h3 id="mini-header">Rating: 10/10</h3>
+            </section>
+            <section class="main-section" id="The_JoJoLANDS">
+                <header id="header1">
+                    <h2 id="The_JoJoLNDS">The JoJoLANDS</h2>
+                </header>
+                <p id="yap">Yap Yap Yap...</p>
+                <h3 id="mini-header">MC: Jodio Joestar</h3>
+                <p id="yap">Yap Yap Yap</p>
+                <h3 id="mini-header">Antagonist: Unknown</h3>
+                <p id="yap">Yap Yap Yap</p>
+                <h3 id="mini-header">Rating: Not Enough Chapters To Reach A Decision</h3>
+            </section>
+        </div>
+    </main>
+  </body>
+</html>
